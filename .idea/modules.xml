@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Chef.iml" filepath="$PROJECT_DIR$/.idea/Chef.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chef - Tamás/Chef - Tamás.iml" filepath="$PROJECT_DIR$/Chef - Tamás/Chef - Tamás.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cooking-master - Rob/Cooking-master - Rob.iml" filepath="$PROJECT_DIR$/Cooking-master - Rob/Cooking-master - Rob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CookingProgram - Csaba/CookingProgram - Csaba.iml" filepath="$PROJECT_DIR$/CookingProgram - Csaba/CookingProgram - Csaba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CookingViktor - Beni/CookingViktor - Beni.iml" filepath="$PROJECT_DIR$/CookingViktor - Beni/CookingViktor - Beni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chef/Chef.iml" filepath="$PROJECT_DIR$/Chef/Chef.iml" />
     </modules>
   </component>
 </project>

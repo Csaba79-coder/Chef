@@ -19,7 +19,7 @@ public class LogUtils {
     }
 
     public static void printBonApetit() {
-        String file = "src/resources/apetit.text";
+        String file = "C:\\Users\\PC\\Documents\\Java\\Progmatic\\Chef\\Chef - Tamás\\src\\resources\\apetit.text";
         try {
             Stream<String> stream = Files.lines(Paths.get(file));
             stream.forEach(System.out::println);
